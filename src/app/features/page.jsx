@@ -1,6 +1,6 @@
-import Navbar from "@/components/navbar";
+import Navbar from "@/components/Navbar";
 import FeaturesSection from "@/components/Features";
-import Footer from "@/components/footer";
+import Footer from "@/components/Footer";
 
 export default function FeaturesPage() {
   return (

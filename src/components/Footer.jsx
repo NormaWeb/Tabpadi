@@ -110,4 +110,4 @@ export default function FooterComponent() {
       </div>
     </footer>
   )
-}
+};

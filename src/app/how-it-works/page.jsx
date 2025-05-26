@@ -1,6 +1,6 @@
-import Navbar from "@/components/navbar"
+import Navbar from "@/components/Navbar"
 import HowItWorksSection from "@/components/HowItWorks"
-import Footer from "@/components/footer"
+import Footer from "@/components/Footer"
 
 export default function HowItWorksPage() {
   return (

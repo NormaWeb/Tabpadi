@@ -48,4 +48,4 @@ const MobileMenu = () => {
   )
 }
 
-export default MobileMenu
+export default MobileMenu;
